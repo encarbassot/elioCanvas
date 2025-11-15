@@ -1,4 +1,4 @@
-# ElioCanvas.js
+# 🍉 elioCanvas
 
 I made this canvas library with a big inspiration of [p5.js](https://p5js.org)
 
